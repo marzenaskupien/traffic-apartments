@@ -273,8 +273,8 @@ if st.session_state["drawn_polygon"]:
         & (inside_df["price"] >= selected_price_range[0])
         & (inside_df["price"] <= selected_price_range[1])
         & (inside_df["area"] >= min_area)
-        & (inside_df["rooms"].astype(int).isin(selected_rooms))
-        & (inside_df["district"].isin(selected_districts))
+        & (inside_df["rooms"].astype(int).isin(selected_rooms) if selected_rooms else True)
+        & (inside_df["district"].isin(selected_districts) if selected_districts else True)
         ].copy()
 
         # Sort selected apartments according to sidebar option
