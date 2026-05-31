@@ -21,12 +21,6 @@ ENV/
 .vscode/
 *.iml
 
-# Data files
-data/*.csv
-data/*.json
-data/*.xlsx
-data/*.parquet
-
 # OS
 .DS_Store
 Thumbs.db
