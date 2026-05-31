@@ -133,11 +133,6 @@ selected_districts = st.sidebar.multiselect(
 
 show_traffic_pts = st.sidebar.checkbox("Pokaż punkty pomiarowe ruchu", value=True)
 show_hull = st.sidebar.checkbox("Pokaż wypukłą otoczkę (convex hull) wybranych mieszkań", value=False)
-show_all_apartments = st.sidebar.checkbox(
-    "Pokaż wszystkie mieszkania na mapie",
-    value=False,
-    help="Przy dużej liczbie rekordów lepiej zostawić wyłączone. Po zaznaczeniu obszaru pokażą się tylko znalezione mieszkania."
-)
 sort_option = st.sidebar.selectbox(
     "Sortuj wyniki według",
     options=[
@@ -309,12 +304,7 @@ draw.add_to(m)
 # ---------------------------------------------------------------------------
 # Apartment markers
 # ---------------------------------------------------------------------------
-# Option 1: show all apartments, only if the user explicitly enables it.
-if show_all_apartments:
-    add_apartment_markers(m, apartments_df)
-
-# Option 2: if the user drew an area, show only apartments found inside it.
-elif not selected_apartments.empty:
+if not selected_apartments.empty:
     add_apartment_markers(m, selected_apartments)
 
 
