@@ -1,18 +1,61 @@
 id,name,lat,lon,traffic_level
-1,Aleje Trzech Wieszczów,50.0615,19.9280,82
-2,Rondo Mogilskie,50.0638,19.9612,90
-3,Rondo Grzegórzeckie,50.0622,19.9560,85
-4,Zakopianka,50.0290,19.9440,78
-5,Opolska,50.0870,19.9290,55
-6,Nowohucka,50.0600,20.0250,67
-7,Wielicka,50.0350,20.0000,72
-8,Bora-Komorowskiego,50.0480,20.0280,60
-9,Dietla,50.0540,19.9430,70
-10,Konopnickiej,50.0420,19.9220,45
-11,Lubicz,50.0640,19.9500,80
-12,Mogilska,50.0660,19.9700,75
-13,Kamieńskiego,50.0200,19.9750,50
-14,Grota-Roweckiego,50.0750,20.0150,65
-15,Pilotów,50.0930,19.8950,40
-16,Armii Krajowej,50.0790,19.9080,58
-17,Powstańców Wielkopolskich,50.0850,19.9480,48
+1,A4 południe Krakowa,50.0006,19.9582,98
+2,Al. Powstańców,50.0986,19.9934,92
+3,Conrada / Opolska,50.0915,19.9140,90
+4,Most Dębnicki,50.0557,19.9277,88
+5,Aleje Trzech Wieszczów - Al. Mickiewicza,50.0623,19.9237,90
+6,Aleje Trzech Wieszczów - Al. Słowackiego,50.0702,19.9262,88
+7,Aleje Trzech Wieszczów - Al. Krasińskiego,50.0559,19.9270,87
+8,Rondo Mogilskie,50.0651,19.9596,86
+9,Rondo Grzegórzeckie,50.0576,19.9626,84
+10,Rondo Matecznego,50.0379,19.9365,82
+11,Most Grunwaldzki,50.0486,19.9363,78
+12,Konopnickiej / Jubilat,50.0546,19.9275,86
+13,Kamieńskiego,50.0258,19.9721,84
+14,Wielicka / Powstańców Śląskich,50.0344,19.9606,84
+15,Wielicka / Prokocim,50.0153,20.0007,78
+16,Zakopiańska / Brożka,50.0265,19.9288,88
+17,Zakopiańska / Łagiewniki,50.0195,19.9244,86
+18,Zakopiańska / Opatkowice,49.9876,19.9144,78
+19,Turowicza / Zakopiańska,50.0183,19.9385,84
+20,Turowicza / Witosa,50.0158,19.9538,80
+21,Nowohucka / Al. Pokoju,50.0588,19.9993,84
+22,Nowohucka / Centralna,50.0542,20.0059,79
+23,Nowohucka / Klimeckiego,50.0489,19.9807,82
+24,Nowohucka / Powstańców Wielkopolskich,50.0394,19.9789,85
+25,Klimeckiego / Zabłocie,50.0498,19.9700,73
+26,Kotlarska,50.0537,19.9646,77
+27,Dietla / Starowiślna,50.0524,19.9468,78
+28,Dietla / Krakowska,50.0500,19.9401,76
+29,Starowiślna,50.0530,19.9475,68
+30,Grzegórzecka / Hala Targowa,50.0572,19.9516,72
+31,Lubicz / Dworzec Główny,50.0660,19.9486,76
+32,Pawia / Dworzec Główny,50.0679,19.9462,74
+33,Basztowa,50.0664,19.9409,72
+34,Podwale,50.0640,19.9320,66
+35,Karmelicka,50.0665,19.9297,62
+36,Bronowicka,50.0797,19.8995,69
+37,Balicka,50.0846,19.8769,72
+38,Armii Krajowej / Zarzecze,50.0737,19.9000,77
+39,Armii Krajowej / Piastowska,50.0673,19.9058,73
+40,Rondo Ofiar Katynia,50.0905,19.8996,86
+41,Jasnogórska,50.0852,19.8862,75
+42,Opolska / Prądnicka,50.0872,19.9338,86
+43,Opolska / Mackiewicza,50.0902,19.9430,84
+44,Lublańska,50.0896,19.9728,82
+45,Rondo Barei,50.0909,19.9840,75
+46,Dobrego Pasterza,50.0942,19.9788,72
+47,Pilotów / Młyńska,50.0839,19.9693,70
+48,Mogilska / Meissnera,50.0727,19.9809,78
+49,Mogilska / Lema,50.0658,19.9865,76
+50,Al. Jana Pawła II / Stella-Sawickiego,50.0745,20.0086,76
+51,Rondo Czyżyńskie,50.0756,20.0142,82
+52,Al. Andersa,50.0828,20.0227,73
+53,Rondo Kocmyrzowskie,50.0874,20.0281,80
+54,Plac Centralny,50.0724,20.0379,65
+55,Igołomska / Brzeska,50.0675,20.0988,84
+56,Bieńczycka,50.0798,20.0168,73
+57,Kapelanka / Brożka,50.0335,19.9233,75
+58,Grota-Roweckiego / Kobierzyńska,50.0313,19.9119,73
+59,Bobrzyńskiego / Ruczaj,50.0207,19.8895,65
+60,Czerwone Maki,50.0145,19.8894,58
